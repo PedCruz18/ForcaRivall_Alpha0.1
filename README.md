@@ -13,7 +13,7 @@ Um jogo da forca onde você enfrenta um rival, seja um amigo ou a IA. Um jogador
 ## 📷 Demonstrações
 
 ### 1. Tela de Jogo
-![Tela de Jogo](images/game_screen.png)
+![Tela de Jogo](imagens/Imginicial.jpg)
 
-### 1. Tela de Opções
-![Tela de Opções](images/game_screen.png)
+### 2. Tela de Opções
+![Tela de Opções](imagens/Imgmenu.jpg)
