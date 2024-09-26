@@ -1,2 +1,19 @@
-# ForcaRivall_Alpha0.1
- Neste jogo da forca, dois jogadores se enfrentam em uma competição divertida para ver quem adivinha a palavra secreta primeiro. Um jogador escolhe a palavra enquanto o rival tenta adivinhar, letra por letra, antes que suas tentativas se esgotem. Cada erro adiciona uma parte ao "homem da forca", e o objetivo é adivinhar a palavra antes de ser "enforcado".
+# 🪓 Jogo da Forca Competitivo 🆚
+
+Um jogo da forca onde você enfrenta um rival, seja um amigo ou a IA. Um jogador escolhe uma palavra e o outro deve adivinhar antes que o "homem da forca" seja completado. Divirta-se em partidas solo ou multijogador!
+
+## 🚀 Funcionalidades
+
+- **Modo Solo:** Enfrente a inteligência artificial (IA).
+- **Modo Multijogador:** Desafie um amigo localmente ou online.
+- **Palavras Personalizadas:** Escolha suas próprias palavras para desafiar o rival.
+- **Sistema de Pontuação:** Acompanhe o desempenho ao longo de várias rodadas.
+- **Interface Intuitiva:** Visual simples com um desenho animado da forca que é completado a cada erro.
+
+## 📷 Demonstrações
+
+### 1. Tela de Jogo
+![Tela de Jogo](images/game_screen.png)
+
+### 1. Tela de Opções
+![Tela de Opções](images/game_screen.png)
